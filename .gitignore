@@ -1,0 +1,8 @@
+# .gitignore
+bin/
+obj/
+*.user
+*.suo
+*.sln.docstates
+*.csproj.user
+packages/
