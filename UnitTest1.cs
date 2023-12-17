@@ -178,7 +178,7 @@ namespace WebScraping
                 Console.WriteLine("\n");
                 vcount++;
             }
-            vcount == 1;
+            vcount = 1;
             try
             {
                 // Write scraped data to CSV file directly
@@ -259,7 +259,7 @@ namespace WebScraping
                 Console.WriteLine("\n");
                 vcount++;
             }
-            vcount == 1;
+            vcount = 1;
             try
             {
                 // Write scraped data to CSV file directly
